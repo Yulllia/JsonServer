@@ -1,40 +1,47 @@
 {
-  "posts": [
+  "cupcake": [
+    {
+      "id": 0,
+      "imageName": "chocolate.jpg",
+      "imageList": ["chocolate.jpg", "cupcake.jpg"],
+      "title": "Шоколадні капкейки з малиною",
+      "containChoose": "малина, солена карамель, нутелла, джем яблучний, чорничний, згущонка",
+      "ingridient": "яйця, цукор, малина, кава, ванільний екстракт, рослинна олія, пшеничне борошно, молоко, розпушувач, какао, сіль, вершкове масло 82,5%, цукрова пудра, вершки 33%, вершковий сир маскарпоне або «Cremette»",
+      "contains": "шоколадно-кавовий бісквіт з малиною, вершковий крем з маскарпоне або «Cremette».",
+      "price": "6 штук 300грн"
+    },
     {
       "id": 1,
-      "title": "1st post",
-      "datetime": "July 16, 2021 11:47:39 AM",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      "imageName": "cupcake.jpg",
+      "imageList": ["chocolate.jpg", "cupcake.jpg"],
+      "containChoose": "малина, солена карамель, нутелла, джем яблучний, чорничний, згущонка",
+      "title": "Шоколадні капкейки з малиною",
+      "ingridient": "яйця, цукор, кава, ванільний екстракт, рослинна олія, пшеничне борошно, молоко, розпушувач, какао, сіль, вершкове масло 82,5%, цукрова пудра, вершки 33%, вершковий сир маскарпоне або «Cremette»",
+      "contains": "шоколадно-кавовий бісквіт, солена карамель, вершковий крем з маскарпоне або «Cremette».",
+      "price": "6 штук 300грн"
+    }
+  ],
+
+  "macarons": [
+    {
+      "id": 0,
+      "imageName": "macarons-raspberry.jpg",
+      "imageList": ["macarons-raspberry.jpg", "macarons.jpg"],
+      "title": "Макаруни із білим ганашем та малиновою начинкою",
+      "containChoose": "малина, солена карамель, нутелла, джем яблучний, чорничний, згущонка",
+      "ingridient": "яйця, цукор, цукрова пудра, мигдальна мука, малинове пюре, домашній сир, йогурт, масло, білий шоколад",
+      "contains": "мигдальні кришечки з малиновою начинкою",
+      "price": "6 штук 200грн"
     },
     {
-      "id": 2,
-      "title": "Second post",
-      "datetime": "July 16, 2021 11:47:48 AM",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. two"
-    },
-    {
-      "id": 3,
-      "title": "Number Three",
-      "datetime": "July 16, 2021 11:48:01 AM",
-      "body": "Third post... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    },
-    {
-      "id": 6,
-      "title": "How to become rich",
-      "datetime": "April 16, 2022 2:56:06 AM",
-      "body": "Stop dreaming - this is the truth you have to believe"
-    },
-    {
-      "id": 8,
-      "title": "how to get visa to Afghanistan",
-      "datetime": "April 16, 2022 2:58:59 AM",
-      "body": "lorem ipsum dolor sit amet"
-    },
-    {
-      "id": 9,
-      "title": "Hello!",
-      "datetime": "April 16, 2022 3:00:38 AM",
-      "body": "Hello World!"
+      "id": 1,
+      "imageName": "macarons-raspberry.jpg",
+      "imageList": ["chocolate.jpg", "macarons.jpg"],
+      "title": "Макаруни із білим ганашем та малиновою начинкою",
+      "containChoose": "малина, солена карамель, нутелла, джем яблучний, чорничний, згущонка",
+      "ingridient": "яйця, цукор, цукрова пудра, мигдальна мука, малинове пюре, домашній сир, йогурт, масло, білий шоколад",
+      "contains": "мигдальні кришечки з малиновою начинкою",
+      "price": "6 штук 200грн"
     }
   ]
 }
