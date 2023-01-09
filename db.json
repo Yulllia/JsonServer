@@ -23,7 +23,7 @@
     {
       "id": 2,
       "imageName": "rasberry-cupcakes.jpg",
-      "imageList": ["rasberry-cupcakes.jpg", "rasberry-single.jpg"],
+      "imageList": ["rasberry-cupcakes.jpg", "rasberry-single.jpg", "rasberry-package.jpg"],
       "containChoose": "малина, солена карамель, нутелла, джем яблучний, чорничний, згущонка",
       "title": "Ванільні капкейки із малиновим кремом",
       "ingridient": "яйця, цукор, масло, ванільний екстракт, рослинна олія, пшеничне борошно, молоко, розпушувач, сіль, вершкове масло 82,5%, цукрова пудра, малиновий джем, білий шоколад",
